@@ -1,6 +1,6 @@
 from django.db import models
 # Create your models here.
-from neo4django.db import models
+#from neo4django.db import models
 
 class Node(models.NodeModel):
     name = models.StringProperty()
