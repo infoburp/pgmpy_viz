@@ -1,3 +1,6 @@
 [submodule "pgmpy"]
 	path = pgmpy
 	url = git@github.com:pgmpy/pgmpy.git
+[submodule "pyblueprints"]
+	path = pyblueprints
+	url = https://github.com/infoburp/pyblueprints
